@@ -13,7 +13,7 @@
     font-size: 5rem;
     height: 80px;
     border: none;
-    background-color: #ff531a;
+    background-color: #ff9f80;
     color: #fff;
     text-align: right;
     padding-right: 20px;
@@ -42,9 +42,6 @@
   }
 
   .all-clear {
-    background-color: #f0595f;
-    border-color: #b0353a;
-    color: #fff;
     grid-column-start: 1;
     grid-column-end: 4;
     grid-row-start: 1;
