@@ -45,7 +45,10 @@
     background-color: #f0595f;
     border-color: #b0353a;
     color: #fff;
-    grid-area: 1 / 1 / 0 / 2
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 1;
   }
 
   .all-clear:hover {
@@ -61,10 +64,11 @@
   }
 
   .zero {
-    background-color: #2e86c0;
-    border-color: #337cac;
-    color: #fff;
-    grid-area: 5 / 1 / 0 / 1 
+    
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 5;
+    grid-row-end: 5;
         
   }
 
