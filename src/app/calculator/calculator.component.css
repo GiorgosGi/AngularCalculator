@@ -45,7 +45,7 @@
     background-color: #f0595f;
     border-color: #b0353a;
     color: #fff;
-    grid-area: 1 / 1 / 1 / 2
+    grid-area: 1 / 1 / 0 / 2
   }
 
   .all-clear:hover {
@@ -61,7 +61,7 @@
   }
 
   .zero {
-    grid-area: 5 / 1 / 1 / 1 
+    grid-area: 5 / 1 / 0 / 1 
         
   }
 
